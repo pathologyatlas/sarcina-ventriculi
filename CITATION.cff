@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: Balcı
+    given-names: Serdar
+    orcid: https://orcid.org/0000-0002-7852-3851
+title: "Sarcina ventriculi / Sarcina ventriculi"
+version: 1.0.0
+date-released: 2025-11-06
+url: "https://github.com/pathologyatlas/sarcina-ventriculi"
+repository-code: "https://github.com/pathologyatlas/sarcina-ventriculi"
+license: MIT
+keywords:
+  - pathology
+  - digital pathology
+  - whole slide image
+  - virtual microscopy
+  - Sarcina ventriculi
+  - Sarcina ventriculi
+abstract: "Digital pathology whole slide images for Sarcina ventriculi / Sarcina ventriculi"
